@@ -1,0 +1,7 @@
+.pieDePagina{
+    padding: 1em;
+    border-top: 5px solid  #2271D1;
+    display: flex;
+    justify-content: center;    
+    background-color:  var(--negro);
+}

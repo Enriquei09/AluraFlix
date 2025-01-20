@@ -1,0 +1,17 @@
+.link{   
+    font-size: 18px;
+    font-weight: 700;
+      
+}
+
+.homeLink{
+    padding: .5em 2em;
+    border-color:  #2271D1;
+    color:  #2271D1;
+}
+
+.favoritosLink{
+    padding: .5em 1em;
+    border-color: white;
+    color: white;
+}

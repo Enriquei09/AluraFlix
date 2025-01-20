@@ -1,0 +1,75 @@
+[
+    {
+        "id":1,
+        "titulo":"Equipo Front End ",
+        "categoria":"Front End",
+        "imgVideo":"./img/equipoFrontEnd.png",
+        "linkvideo":"https://www.youtube.com/watch?v=rpvrLaBQwgg",
+        "descripcion":"En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+    },
+    {
+        "id":2,
+        "titulo":"¿Qué es JavaScript?",
+        "categoria":"Front End",
+        "imgVideo":"./img/queEsJavaScript.png",
+        "linkvideo":"https://www.youtube.com/watch?v=GJfOSoaXk4s",
+        "descripcion":"avaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips."
+    },
+    {
+        "id":3,
+        "titulo":"Cuándo usar let, var y const?",
+        "categoria":"Front End",
+        "imgVideo":"./img/queEsJavaScript.png",
+        "linkvideo":"https://www.youtube.com/watch?v=PztCEdIJITY&t=10s",
+        "descripcion":"¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? "
+    },
+    {
+        "id":4,
+        "titulo":"Spring Framework. ¿Qué es ?",
+        "categoria":"Back End",
+        "imgVideo":"./img/SpringFramework.png",
+        "linkvideo":"https://www.youtube.com/watch?v=t-iqt1b2qqk",
+        "descripcion":"¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java."
+    },
+    {
+        "id":5,
+        "titulo":"¿Qué es SQL y NoSQL?",
+        "categoria":"Back End",
+        "imgVideo":"./img/sqlyNosql.png",
+        "linkvideo":"https://www.youtube.com/watch?v=cLLKVd5CNLc",
+        "descripcion":"¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo."
+    },
+    {
+        "id":6,
+        "titulo":"Simplificando tu código en Java: Conoce los enum",
+        "categoria":"Back End",
+        "imgVideo":"./img/conoceEnum.png",
+        "linkvideo":"https://www.youtube.com/watch?v=EoPvlE85XAQ",
+        "descripcion":"¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? "
+    },
+    {
+        "id":7,
+        "titulo":"¿Qué son las Soft Skills?",
+        "categoria":"Inovacion y Gestion",
+        "imgVideo":"./img/softSkils.png",
+        "linkvideo":"https://www.youtube.com/watch?v=vhwspfvI52k&t=140s",
+        "descripcion":"En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día."
+    },
+    {
+        "id":8,
+        "titulo":"7 Soft Skills más deseadas por las empresas",
+        "categoria":"Inovacion y Gestion",
+        "imgVideo":"./img/softSkils.png",
+        "linkvideo":"https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+        "descripcion":"Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate ..."
+    },
+    {
+        "id":9,
+        "titulo":"¿Qué son las metodologias ágiles?",
+        "categoria":"Inovacion y Gestion",
+        "imgVideo":"./img/metodologiasAgiles.png",
+        "linkvideo":"https://www.youtube.com/watch?v=6N3OkLCfK-0",
+        "descripcion":"En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos ..."
+    }
+
+]

@@ -1,0 +1,35 @@
+.cabecera{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.1em 10em;
+    background-color: var(--negro);
+    border-bottom: 5px solid  #2271D1;
+}
+a { text-decoration: none;    
+}
+
+.logoContainer{
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.cabecera img {
+    
+    align-self: start;
+}
+
+nav{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+
+nav a {     
+    border: 2px solid ;
+    border-radius: 8px;
+    font-family: "Roboto";
+}
+
