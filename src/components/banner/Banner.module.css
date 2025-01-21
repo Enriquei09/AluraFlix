@@ -22,11 +22,18 @@
     flex-direction: column;
     gap: 10px;
 }
-.category{
+.titulocategory{
+    width: 40%;
+    text-align: center;
     font-size: 2.5rem;
     padding: .5rem 1rem;
     background-color:#6BD1FF ;
     border-radius: 8px;
     display: inline-block;
     
+}
+
+.videoTitulo{
+    font-size: 30px;
+    font-weight: 400;
 }

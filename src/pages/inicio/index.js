@@ -1,12 +1,32 @@
+// import styles from "./index.modules.css"
 import Banner from "components/banner"
-import Cabecera from "components/cabecera"
-import Card from "components/card"
+import Categoria from "components/Categoria"
+import data from "data/db.json";
 
 function Inicio(){
+
+    const categorias = [...new Set(data.map((video) => video.categoria,))]
+
     return(
         <>
             <Banner/>
-            <Card id="1" titulo="Kike" imgVideo="https://github.com/Enriquei09.png"/>
+            {
+                categorias.map((categoria,index, colorCategoria)=>{
+                    
+                    return(
+                        <Categoria key={index} categoria={categoria} colorCategoria={categoria.colorCategoria} videos={data.filter((video ) => video.categoria === categoria)} />
+                    )
+                })
+            }
+            
+            {/* <section className={styles.container}>
+                {
+                    videos.map((video)=>{
+                        return( <Categoria {...video} key={video.id} categoria={video.categoria} titulo={video.titulo} imgVideo={video.imgVideo}/>)
+                    })
+                }
+            </section> */}
+            
         </>
     )
 }
