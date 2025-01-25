@@ -1,6 +1,8 @@
 import FormularioEstilizado from "components/Formulario"
 import styles from "./modalEdit.module.css"
 
+
+
 function ModalEditVideo(){
     return(
         <>
@@ -10,6 +12,7 @@ function ModalEditVideo(){
                     <button className={styles.BotonIcono} ><img src="/img/iconCerrar.png" alt="icono cerrar"/></button>
                     <h1>EDITAR CARD:</h1>
                     <FormularioEstilizado />
+                                     
                 </article>
                 
                 

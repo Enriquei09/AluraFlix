@@ -1,0 +1,13 @@
+.boton{
+    padding: .5em 1em;
+    border: 3px;
+    border-color: #ffffff;
+    color: white;
+}
+
+.botonsegundo{
+    padding: .5em 1em;
+    border: 3px;
+    border-color: var(--azul);
+    color:var(--azul);
+}

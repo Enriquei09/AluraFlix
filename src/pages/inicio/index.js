@@ -19,7 +19,7 @@ function Inicio(){
                     )
                 })
             }
-            <ModalEditVideo/>
+            {/* <ModalEditVideo/> */}
             
             {/* <section className={styles.container}>
                 {

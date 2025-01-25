@@ -1,7 +1,8 @@
 import CampoTexto from "components/Campo"
 import styles from "./formulario.module.css"
-import { TextField } from "@mui/material"
+
 import TextArea from "components/Campo/textArea"
+// import Boton from "components/iconOptions"
 
 function FormularioEstilizado(){
     return(
@@ -11,6 +12,7 @@ function FormularioEstilizado(){
             <CampoTexto titulo="Imagen" placeholder="Link de la imagen"/>
             <CampoTexto titulo="Video" placeholder="Link del video"/>
             <TextArea titulo="Descripción" placeholder="Descripción del video" />
+            
         </form>
     )
 }

@@ -20,7 +20,7 @@
 
 .containerForm{    
     width: 774px;
-    height: 800px;
+    height: 950px;
     background-color: #03122F;
     border: 5px solid var(--azul);
     border-radius: 8px;    
@@ -43,6 +43,7 @@
         top:40px;
         left: 150px;
     }
+    
 }
 
 .BotonIcono{
@@ -54,3 +55,4 @@
     border: none;
     cursor: pointer;
 }
+
