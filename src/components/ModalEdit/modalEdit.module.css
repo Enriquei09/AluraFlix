@@ -1,0 +1,56 @@
+.Overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.DialogEstilizado{
+    position: absolute;
+    top: 294px;
+    background: transparent;
+    padding: 0;
+    border: 0;
+    width: 1156px;
+    display: flex;
+    justify-content: center;
+}
+
+.containerForm{    
+    width: 774px;
+    height: 800px;
+    background-color: #03122F;
+    border: 5px solid var(--azul);
+    border-radius: 8px;    
+    button{
+        position: relative;
+        top:20px;
+        left: 680px;
+    }
+    h1{
+        position: relative;
+        top:40px;
+        left: 150px;
+        font-size: 40PX; 
+        font-weight: 700;
+        font-family: "Roboto";
+        color: var(--azul);
+    }
+    form{
+        position: relative;
+        top:40px;
+        left: 150px;
+    }
+}
+
+.BotonIcono{
+    margin-left:12px ;    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}

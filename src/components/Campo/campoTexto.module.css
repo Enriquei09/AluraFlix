@@ -1,0 +1,30 @@
+.campo{
+    margin: 24px 0px;
+    font-family:  "Roboto", sans-serif;
+    color: white;
+}
+
+.campolabel{
+    font-family:  "Roboto", sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    display: block;
+    margin-bottom: 8px;    
+}
+
+.campoInput{
+    width: 100%;
+    background-color:transparent;
+    /* box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.089); */
+    border: 2px solid var(--azul);
+    border-radius: 8px;
+    padding: 10px 20px;
+    outline-color: #f5f6f8;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+
+input {
+    height: 40px;
+    padding: 5px 20px;
+}

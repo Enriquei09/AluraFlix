@@ -79,14 +79,5 @@
         "imgVideo": "./img/metodologiasAgiles.png",
         "linkVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
         "descripcion": "En este video nuestra invitada, Andyara, nos explicará qué son las muy conocidas metodologías ágiles y cómo aplicarlas en proyectos."
-    },
-    {
-        "id": 10,
-        "titulo": "¿Qué son las metodologías ágiles?",
-        "categoria": "Mi amorts",
-        "colorCategoria":"#fff5",
-        "imgVideo": "./img/metodologiasAgiles.png",
-        "linkVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
-        "descripcion": "En este video nuestra invitada, Andyara, nos explicará qué son las muy conocidas metodologías ágiles y cómo aplicarlas en proyectos."
     }
 ]

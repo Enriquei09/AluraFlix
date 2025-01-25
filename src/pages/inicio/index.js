@@ -1,6 +1,7 @@
 // import styles from "./index.modules.css"
 import Banner from "components/banner"
 import Categoria from "components/Categoria"
+import ModalEditVideo from "components/ModalEdit";
 import data from "data/db.json";
 
 function Inicio(){
@@ -18,6 +19,7 @@ function Inicio(){
                     )
                 })
             }
+            <ModalEditVideo/>
             
             {/* <section className={styles.container}>
                 {
